@@ -1,0 +1,8 @@
+{
+  "xml.fileAssociations": [
+    {
+      "pattern": "Defs/**.xml",
+      "systemId": "schemas/define.bundled.xsd"
+    }
+  ]
+}
