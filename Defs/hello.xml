@@ -2,7 +2,7 @@
 
 <Defs>
   <ThingDef>
-    <defName>Demo</defName>
+    <defName>Hello</defName>
     <description>Come and try it.</description>
   </ThingDef>
 </Defs>
