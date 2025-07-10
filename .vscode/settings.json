@@ -2,7 +2,7 @@
   "xml.fileAssociations": [
     {
       "pattern": "Defs/**.xml",
-      "systemId": "schemas/define.bundled.xsd"
+      "systemId": "https://cdn.jsdelivr.net/gh/realloon/rimxsd-template/schemas/define.bundled.xsd"
     }
   ]
 }
